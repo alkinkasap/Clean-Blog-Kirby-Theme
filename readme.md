@@ -1,7 +1,36 @@
+# Kirby CMS Clean Blog Theme
+
+Clean Blog is a Kirby CMS Theme. The theme is free and based on Bootstrap's Clean Blog Theme.
+
+Kirby CMS: <http://getkirby.com>
+
+Clean Blog Bootstrap: <http://startbootstrap.com/template-overviews/clean-blog>
+
+Being my first Kirby CMS Theme you may encounter bugs or whatever. Please report them to me. For Kirby CMS support and documentation check below.
+
 # Kirby
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
+
+## The Panel
+
+You can find the login for Kirby's admin interface at
+http://yourdomain.com/panel. 
+Default login details are:
+
+Username: admin
+
+Password: pass
+
+## Installation
+
+Kirby does not require a database, which makes it very easy to
+install. Just copy Kirby's files to your server and visit the
+URL for your website in the browser.
+
+**Please check if the invisible .htaccess file has been
+copied to your server correctly**
 
 ## Trial
 
@@ -17,58 +46,18 @@ You can purchase your Kirby license at
 A Kirby license is valid for a single domain. You can find
 Kirby's license agreement here: <http://getkirby.com/license>
 
-## The Starterkit
-
-Kirby's Starterkit comes with a small demo website and a fully
-configured panel. Feel free to modify it and play with it as
-much as you like.
-
-## The Panel
-
-You can find the login for Kirby's admin interface at
-http://yourdomain.com/panel. You will be guided through the signup
-process for your first user, when you visit the panel
-for the first time.
-
-## Installation
-
-Kirby does not require a database, which makes it very easy to
-install. Just copy Kirby's files to your server and visit the
-URL for your website in the browser.
-
-**Please check if the invisible .htaccess file has been
-copied to your server correctly**
-
 ### Requirements
 
 Kirby runs on PHP 5.3+, Apache or Nginx.
 
-### Download
-
-You can download the latest version of the Starterkit
-from http://download.getkirby.com
-
-### With Git
-
-If you are familiar with Git, you can clone Kirby's
-Starterkit repository from Github.
-
-    git clone --recursive https://github.com/getkirby/starterkit.git
-
 ## Documentation
 <http://getkirby.com/docs>
 
-## Issues and feedback
+Theme has custom header images option, social links option and credits option.
 
-If you have a Github account, please report issues
-directly on Github:
+To enable a cover image simply rename it "cover" in the page you wanted. If there isn't any cover image has been set site's cover image will be used instead. 
 
-- <https://github.com/getkirby/kirby/issues>
-- <https://github.com/getkirby/panel/issues>
-- <https://github.com/getkirby/starterkit/issues>
-
-Otherwise you can use Kirby's forum: http://getkirby.com/forum
-or send us an email: <support@getkirby.com>
+Social links and credits options are in site options menu.
 
 ## Support
 <http://getkirby.com/support>
