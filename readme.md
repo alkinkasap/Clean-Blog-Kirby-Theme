@@ -36,7 +36,7 @@ copied to your server correctly**
 
 You can try Kirby on your local machine or on a test
 server as long as you need to make sure it is the right
-tool for your next project.
+tool for your next project. This theme is totaly free and you may use it for any case without caring any copyright or whatsover. Thought you need to check for Kirby's license terms below.
 
 ## Buy a license
 
@@ -66,3 +66,6 @@ Social links, credits and tracker code options are in site options menu.
 
 © 2009-2014 Bastian Allgeier (Bastian Allgeier GmbH)
 <http://getkirby.com>
+
+© 2015 Alkin Kasap
+<http://alkinkasap.net>
