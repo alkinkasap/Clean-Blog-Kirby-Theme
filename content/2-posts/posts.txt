@@ -1,0 +1,5 @@
+Title: Blog
+
+----
+
+Text: These are my blog posts

@@ -1,0 +1,13 @@
+Title: Project D
+
+----
+
+Date: 2015-11-26
+
+----
+
+Text: Lorem ipsum is short but long. Is used almost everywhere in the world.
+
+----
+
+Tags: lorem,ipsum,indoor,tagdoor

@@ -1,0 +1,29 @@
+Title: Clean Blog Kirby Theme
+
+----
+
+Author: Alkin Kasap
+
+----
+
+Description: This is my first Kirby theme ever.
+
+----
+
+Keywords: Kirby,CMS,file-based
+
+----
+
+Copyright: © (date: Year) (link: http://alkinkasap.net text: alkinkasap)
+
+----
+
+Facebook: https://facebook.com/yourlink
+
+----
+
+Twitter: https://twitter.com/yourlink
+
+----
+
+Github: https://github.com/yourlink
