@@ -30,6 +30,14 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+
+
+    <?php
+    if($site->has('tracker')) {
+      echo $site->tracker()->html();
+    }
+    ?>
+
 </head>
 
 <body>

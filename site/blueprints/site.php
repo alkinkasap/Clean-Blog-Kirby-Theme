@@ -18,6 +18,10 @@ fields:
   copyright:
     label: Copyright
     type:  text
+  tracker:
+    label: Tracker
+    type:  textarea
+    placeholder: Put your analytics or other tracking code. This code will be applied to all pages.
   facebook:
     label: Facebook
     type:  url

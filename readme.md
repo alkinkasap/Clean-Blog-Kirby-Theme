@@ -53,11 +53,11 @@ Kirby runs on PHP 5.3+, Apache or Nginx.
 ## Documentation
 <http://getkirby.com/docs>
 
-Theme has custom header images option, social links option and credits option.
+Theme has custom header images option, social links option, credits option and tracker code option.
 
 To enable a cover image simply rename it "cover" in the page you wanted. If there isn't any cover image has been set site's cover image will be used instead. 
 
-Social links and credits options are in site options menu.
+Social links, credits and tracker code options are in site options menu.
 
 ## Support
 <http://getkirby.com/support>
