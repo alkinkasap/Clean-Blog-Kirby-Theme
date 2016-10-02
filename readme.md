@@ -19,9 +19,11 @@ You can find the login for Kirby's admin interface at
 http://yourdomain.com/panel. 
 Default login details are:
 
-Username: admin
+ ~~Username: admin ~~
 
-Password: pass
+ ~~Password: pass ~~
+
+Deleted. When you go for panel you will be creating new user.
 
 ## Installation
 
